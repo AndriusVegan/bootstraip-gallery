@@ -20,5 +20,5 @@ html{
     text-decoration: none;
     color: #ffc107;
     transition: transform 0.9s;
-    transform: rotate(-360degree);
+    transform: rotate(-360deg);
 }
